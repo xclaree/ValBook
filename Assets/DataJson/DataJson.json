@@ -1,0 +1,26 @@
+{
+    "medias": [
+        {"type": "movie", "id": 11, "title": "Inception", "year": 2010, "description": "Viaggio nei sogni.", "image": "inception.jpg", "director": "Christopher Nolan"},
+        {"type": "article", "id": 21, "title": "Le scoperte di Einstein", "year": 2023, "description": "Relatività e fisica moderna.", "image": "einstein.jpg", "journal": "Science Today"},
+        {"type": "book", "id": 1, "title": "1984", "year": 1949, "description": "Distopia di Orwell.", "image": "1984.jpg", "author": "George Orwell"},
+        {"type": "movie", "id": 15, "title": "Il Padrino", "year": 1972, "description": "Saga mafiosa.", "image": "godfather.jpg", "director": "Francis Ford Coppola"},
+        {"type": "book", "id": 6, "title": "Orgoglio e Pregiudizio", "year": 1813, "description": "Classico della letteratura.", "image": "pride_prejudice.jpg", "author": "Jane Austen"},
+        {"type": "article", "id": 24, "title": "Crisi climatica", "year": 2023, "description": "Impatto del cambiamento climatico.", "image": "climate.jpg", "journal": "Nature"},
+        {"type": "movie", "id": 19, "title": "The Dark Knight", "year": 2008, "description": "La leggenda di Batman.", "image": "dark_knight.jpg", "director": "Christopher Nolan"},
+        {"type": "book", "id": 3, "title": "Harry Potter e la Pietra Filosofale", "year": 1997, "description": "Inizio della saga di Harry Potter.", "image": "hp1.jpg", "author": "J.K. Rowling"},
+        {"type": "article", "id": 30, "title": "Robotica avanzata", "year": 2025, "description": "Ultime innovazioni nella robotica.", "image": "robotics.jpg", "journal": "Tech Innovations"},
+        {"type": "book", "id": 9, "title": "Dracula", "year": 1897, "description": "Il vampiro più famoso.", "image": "dracula.jpg", "author": "Bram Stoker"},
+        {"type": "movie", "id": 13, "title": "Interstellar", "year": 2014, "description": "Viaggio tra le stelle.", "image": "interstellar.jpg", "director": "Christopher Nolan"},
+        {"type": "article", "id": 27, "title": "Il futuro dei veicoli elettrici", "year": 2024, "description": "Sostenibilità nei trasporti.", "image": "ev_future.jpg", "journal": "Automotive World"},
+        {"type": "book", "id": 4, "title": "Il Nome della Rosa", "year": 1980, "description": "Mistero medievale.", "image": "nome_rosa.jpg", "author": "Umberto Eco"},
+        {"type": "article", "id": 23, "title": "Viaggio su Marte", "year": 2025, "description": "Missioni spaziali future.", "image": "mars.jpg", "journal": "Space Exploration"},
+        {"type": "movie", "id": 18, "title": "Star Wars: Una nuova speranza", "year": 1977, "description": "Inizio della saga Star Wars.", "image": "star_wars.jpg", "director": "George Lucas"},
+        {"type": "book", "id": 2, "title": "Il Signore degli Anelli", "year": 1954, "description": "Fantasy epico.", "image": "lotr.jpg", "author": "J.R.R. Tolkien"},
+        {"type": "article", "id": 29, "title": "Social media e psicologia", "year": 2024, "description": "Effetti dei social sulla mente.", "image": "social_psych.jpg", "journal": "Psychology Today"},
+        {"type": "movie", "id": 12, "title": "Matrix", "year": 1999, "description": "La realtà è un'illusione.", "image": "matrix.jpg", "director": "Lana e Lilly Wachowski"},
+        {"type": "book", "id": 7, "title": "Moby Dick", "year": 1851, "description": "Caccia alla balena bianca.", "image": "moby_dick.jpg", "author": "Herman Melville"},
+        {"type": "article", "id": 28, "title": "Esplorazione degli oceani", "year": 2023, "description": "Nuove scoperte marine.", "image": "oceans.jpg", "journal": "Marine Science"},
+        {"type": "movie", "id": 14, "title": "Pulp Fiction", "year": 1994, "description": "Storie interconnesse.", "image": "pulp_fiction.jpg", "director": "Quentin Tarantino"},
+        {"type": "book", "id": 10, "title": "Il Gattopardo", "year": 1958, "description": "Decadenza di una famiglia siciliana.", "image": "gattopardo.jpg", "author": "Giuseppe Tomasi di Lampedusa"}
+    ]
+}
